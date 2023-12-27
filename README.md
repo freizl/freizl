@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**freizl/freizl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Haisheng
 
-Here are some ideas to get you started:
+*A programmer*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## How I spent my time last week:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## GitHub Stats
+
+<a href="https://github.com/hw202207">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=freizl&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freizl&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=" />
+</a>
