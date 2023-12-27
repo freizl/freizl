@@ -16,10 +16,9 @@ jobs:
           ### meta
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          TIME_RANGE: all_time # optional
           LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional       
-          TIME_RANGE: last_7_days
+          TIME_RANGE: last_14_days
