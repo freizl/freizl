@@ -16,7 +16,7 @@ jobs:
           ### meta
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          LANG_COUNT: 5 # optional
+          LANG_COUNT: 6 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           STOP_AT_OTHER: true # optional
