@@ -1,3 +1,5 @@
+name: Waka readme
+
 on:
   workflow_dispatch:
   schedule:
