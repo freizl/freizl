@@ -8,7 +8,7 @@
 
 [Reading list](https://freizl.github.io/info/books.html)
 
-## How I spent my time last week:
+## How I spent my time last week
 
 <!--START_SECTION:waka-->
 
