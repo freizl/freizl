@@ -13,15 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2020 - To: 26 December 2023
-
-Total Time: 3,357 hrs 59 mins
-
-Haskell            919 hrs 29 mins ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
-OrgMode            887 hrs 29 mins ██████▒░░░░░░░░░░░░░░░░░░   25.60 %
-JavaScript         611 hrs 47 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-TypeScript         203 hrs 14 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Git                134 hrs 13 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+OrgMode       9 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   43.15 %
+Haskell       6 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+Emacs Lisp    2 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+Git           2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+Image (png)   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Other         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
