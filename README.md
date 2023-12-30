@@ -3,10 +3,11 @@
 
 *A programmer*
 
-
+<!---
 ## What I'm reading
 
 [Reading list](https://freizl.github.io/info/books.html)
+-->
 
 ## How I spent my time last week
 
