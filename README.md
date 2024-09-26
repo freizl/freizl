@@ -14,8 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OrgMode   1 hr 26 mins    ████████████████████████░   96.49 %
-Git       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+OrgMode   57 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
