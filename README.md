@@ -14,8 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OrgMode      1 hr 34 mins    █████████████████████░░░░   83.80 %
-Other        12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
