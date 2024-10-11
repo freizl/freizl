@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+OrgMode      1 hr 18 mins    ████████████████▓░░░░░░░░   66.90 %
+Git          22 mins         █████░░░░░░░░░░░░░░░░░░░░   19.52 %
+Emacs Lisp   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Markdown     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
