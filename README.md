@@ -14,7 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OrgMode   3 mins          █████████████████████████   100.00 %
+OrgMode        5 mins          ████████████▒░░░░░░░░░░░░   49.64 %
+Emacs Lisp     4 mins          ██████████▓░░░░░░░░░░░░░░   43.23 %
+Image (png)    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+Image (jpeg)   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
