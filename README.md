@@ -14,10 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell      7 hrs 42 mins   ████████████▒░░░░░░░░░░░░   49.63 %
-OrgMode      3 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-Git          1 hr 51 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-Other        41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
