@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+OrgMode        1 hr 5 mins     ██████████████▒░░░░░░░░░░   56.86 %
+Haskell        38 mins         ████████▒░░░░░░░░░░░░░░░░   33.44 %
+Git            6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Cabal Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Other          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
