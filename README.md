@@ -14,7 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+OrgMode      43 mins         ████████████████████████▓   98.41 %
+Emacs Lisp   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
