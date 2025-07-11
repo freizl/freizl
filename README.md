@@ -14,7 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+OrgMode      1 hr 47 mins    █████████████████▓░░░░░░░   70.43 %
+Vue.js       16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Git          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Markdown     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Emacs Lisp   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->
