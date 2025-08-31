@@ -14,8 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OrgMode        17 mins         ████████████████▒░░░░░░░░   65.88 %
-Image (jpeg)   9 mins          ████████▓░░░░░░░░░░░░░░░░   34.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
