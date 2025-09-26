@@ -14,9 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OrgMode        9 mins          █████████████▒░░░░░░░░░░░   53.16 %
-Image (png)    6 mins          █████████▒░░░░░░░░░░░░░░░   37.30 %
-Other          1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+OrgMode   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
