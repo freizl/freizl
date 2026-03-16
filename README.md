@@ -14,7 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OrgMode   9 mins                █████████████████████████   100.00 %
+Emacs Lisp   20 mins               ███████████████████████▒░   93.19 %
+Git          1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Git Config   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
