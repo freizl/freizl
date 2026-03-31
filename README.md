@@ -14,7 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+LilyPond   2 hrs 8 mins          ███████████████████░░░░░░   76.13 %
+Other      27 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
 ```
 
 <!--END_SECTION:waka-->
