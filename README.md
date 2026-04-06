@@ -14,8 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-LilyPond   2 hrs 8 mins          ███████████████████░░░░░░   76.13 %
-Other      27 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+LilyPond       1 hr 16 mins          ████████████░░░░░░░░░░░░░   48.29 %
+Other          57 mins               █████████░░░░░░░░░░░░░░░░   36.09 %
 ```
 
 <!--END_SECTION:waka-->
